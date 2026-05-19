@@ -1,3 +1,4 @@
+
 ---
 title: Magmos War Wiki
 tagline: -MDF Wiki-
