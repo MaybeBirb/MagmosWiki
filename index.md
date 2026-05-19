@@ -1,5 +1,5 @@
 ---
-title: The Magmos War Wiki
+title: Magmos War Wiki
 tagline: -MDF Wiki-
 description: This wiki comprehensibly displays all of the history of the war for Magmos, and the characters that have appeared.
 ---
