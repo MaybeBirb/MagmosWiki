@@ -1,12 +1,11 @@
-# MDF-KR12 VAKETHORAN
+# MDF-CL05 HERMIT
 ---
-(No image)
+<img width="736" height="1125" alt="image" src="https://github.com/user-attachments/assets/4149207f-943f-4194-b9be-d8725b86a6cc" />  
 
 ---
-One of the KR-series machines created by Vattelen Vella. The VAKETHORAN is an enormous capital ship spanning 13km.
 
-It is highly loaded with soldiers and a massive weapons arsenal, but by the time of the MDF-PCA war, it is used solely to gain the attention of the rest of humanity. It is captained by Solev.
+10m tall MDF MT made for mass production and deployment. HERMIT units are resistant to 80% of all damage from any direction but the front.  
 
-### BEHIND THE SCENES
-The VAKETHORAN is an evolution of a concept called Fleet Alpha, which the players would encounter at the end of a mission. The fleet would be defended by the military general of the MDF War Council, though its main flagship would be nowhere near the size of the final Vakethoran.
-Ultimately, as Fleet Alpha had little canon purpose besides being a last-ditch effort to defeat the PCA, it was turned into the VAKETHORAN and repurposed to alert humanity.
+Otherwise, their AP is simular to a BAWS MT. The weakest craft mass-deployed on Magmos 2.
+
+Typically, HERMITs use paired machine guns on each side. Like hermit crabs, they crawl around on many legs.
