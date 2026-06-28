@@ -21,7 +21,7 @@ Internal defense machines for repelling intruders in priority locations. Some in
 
 ### RE Series
 Entirely reverse-engineered machines from the PCA.
-- [MDF-RE03 ANTITHESIS](RE03-Antithesis)
+- [MDF-RE03 ANTITHESIS](RE03-Antithesis.md)
 - [MDF-RE18 BELLIGERENT](RE18-Belligerent.md)
 
 ### PR Series
