@@ -27,9 +27,9 @@ Entirely reverse-engineered machines from the PCA.
 ### PR Series
 Predator-series machines that specialize in attacking singular targets without getting distracted. Sometimes autonomous, sometimes piloted.
 - [MDF-PR02 REX](PR02-Rex.md)
-- MDF-PR04
+- MDF-PR04 (Category)
    - [MDF-PR04M SECT](PR04M-Sect.md)
-   - MDF-PR04H
+   - [MDF-PR04H](PR04H.md)
 - [MDF-PR06 CERATO](PR06-Cerato.md)
 - [MDF-PR08 RAPTOR](PR08-Raptor.md)
 
