@@ -66,3 +66,11 @@ Pre-history
 11/04/XXXX: AIM ships deployed to Magmos 2’s orbit. Documents leaked concerning the use of DA-5 and K4-K3E.
 12/08/XXXX: Reinforcements deployed to support the two ACC87 Super-Heavy Mobile Carriers coming under an unprecedented attack.
 ```
+## Year 5
+```
+01/01/XXXX: MDF Armored Train hijacked, leading to the death of the MDF Head of Education, the first War Council death.
+02/28/XXXX: Destruction of the MDF central relay station.
+03/09/XXXX: Magmosians officially reverted to limited legal protection status. Surrendered Magmosians are to be captured.
+03/20/XXXX: Evidence located of an older Magmosian research lab.
+03/21/XXXX: Search team deployed to investigate the facility.
+```
