@@ -9,3 +9,6 @@ A high-altitude infantry support ship with downward-facing cannons. Though capab
 The bottom of a gunship is equipped with long-range bazookas and grenade cannons, though some have been seen equipped with missiles instead.
 
 Due to their high altitude, it is recommended to destroy Gunships with heavy artillery fire. If this is unavailable, targeting their thrusters will destroy them.
+
+### Behind the Scenes
+Never deploying these guys in groups again.
