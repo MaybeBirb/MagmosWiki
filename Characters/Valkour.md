@@ -18,4 +18,4 @@ He was equipped with customized Magmosian augmentations, his armor being colored
 ### Behind the Scenes
 Valkour was named and designed after [Vapor](https://herofactory.fandom.com/wiki/Vapor) from [Hero Factory](https://en.wikipedia.org/wiki/Lego_Hero_Factory), and more specifically, an interpretation of the character from the series The General.
 
-His fighting style was based on the ]BX-Series Commando Droids](https://starwars.fandom.com/wiki/BX-series_droid_commando) from the [Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars) TV series.
+His fighting style was based on the [BX-Series Commando Droids](https://starwars.fandom.com/wiki/BX-series_droid_commando) from the [Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars) TV series.
