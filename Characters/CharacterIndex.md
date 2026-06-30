@@ -49,3 +49,4 @@ Below is a ist of named characters that appear exclusively within the Magmos 2 c
 
 ## Assembly's International Military (AIM)
 - [Unifentified AIM AC Squad Leader](Unk-AIM-AC-Leader.md)
+- [Unidentified AIM Commissioned Officer](Unk-AIM-Comm-Officer.md)
