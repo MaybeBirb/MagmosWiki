@@ -163,3 +163,155 @@ This particular Magmosian is labeled 'Vaux Azzacci', but it's difficult to tell 
 
 This Magmosian had accomplished this alone, and without the use of internal weaponry. 
 ```
+
+## Hraov lokov venkalé
+```
+----------------
+Audio log found while surveying an old Magmosian facility, on an unknown wreck guarding the door.
+Uses very unusual language, and as such, the translation is rough.
+----------------
+They have finally noticed.
+They have been outside the doors for days.
+How long did it take them? Are they going to attack? Did they see Korrva's little failure yet, or was this just coincidence?
+
+I hope they saw it. Idiot.
+
+*Our* defenses are active, but with the war beginning as leader "predicted" (started), they are still bound to find that thing eventually out there.
+Or it will find them. I *truly* couldn't care less at this point.
+```
+
+## Tirrva venkalé
+```
+----------------
+Data log found on an old Magmosian wreck while surveying an old Magmosian facility.
+Uses very unusual dialect, and as such, the translation is rough.
+----------------
+Things are proceeding on schedule, in spite of our differences.
+
+The creature is still stable, and given the circumstances, it shouldn't be able to find a mate anywhere.
+If it gets out, it WILL destroy this facility. Also this is *still* illegal.
+We really should just kill it.
+...You had better follow through, sir Korrva.
+
+Whatever, we have it contained right now. And as long as it sleeps, it will stay that way.
+It's *my* neck on the line. I think I'll keep it asleep as long as I can.
+
+At least as long as leader can go without starting a war.
+```
+
+## Akkaré venkalé
+```
+----------------
+Data log found while surveying an old Magmosian facility, recovered from a powered terminal.
+Uses a very unusual dialect, and as such, the translation is rough.
+----------------
+Day 4598.
+
+The base personnel continue to be astounded nothing has gone wrong. As do I.
+
+We are proceeding on schedule. Korrva Akka, despite [???]ing actual leadership, keeps his authority in this matter.
+Therefore, we are moving to the next phase.
+
+On day 4600, we will attempt to wake the Halavon. Until then, the next two days will be giving it [???]s.
+We are... going to ignore Korrva's order to accelerate this program. There is too much at stake this early into the war.
+```
+
+## Vesp Venkalé
+```
+----------------
+Data log found while surveying an old Magmosian facility, recovered from a strangely-powered terminal.
+Uses a very unusual dialect, and as such, the translation is rough.
+----------------
+A war was bound to happen sooner or later. Our races were never going to be very compatible.
+
+Korrva is… displeased about it nonetheless. We know there are scouts outside, watching, but we are not a military unit. We would lose in a true firefight.
+
+...
+
+I *would* hope sir Brossk would come rescue us, but… he has no mercy for traitors.
+Maybe the deogans actually offer us a preferable death.
+```
+
+## Halavon syel venkalé
+```
+----------------
+Data log found while surveying an old Magmosian facility, recovered from an unknown wreck.
+Uses a very unusual dialect, and as such, the translation is rough.
+----------------
+. . .
+
+The Halavons have been eradicated.
+We are barely 20 days into the project. That was a bit too soon…
+
+The alliance, then, will end.
+I hear rumors of a new leader.
+Can’t be much worse than Korrva…
+Though part of me wishes we wouldn’t have a new leader. What was wrong with Reik? Why couldn’t we keep her? Why do we need ‘unity’?
+
+...
+
+Oh, right… same reason we need the Halavon.
+We just can’t help ourselves.
+```
+
+## *[???]*
+```
+----------------
+A signal transmitter found while surveying an old Magmosian facility, disguised as a log.
+By scanning this, a signal was automatically sent out. The purpose or target is unknown.
+----------------
+< Successfully triggered in 163ms >
+```
+
+## ^;ÿŠ\ÿ–fÿkFÿ
+```
+----------------
+Data log found while surveying an old Magmosian facility, taken from an unknown machine that contradicts MDF design philosophy.
+The language is completely foreign, and its title is composed of unreadable characters.
+----------------
+Eƙιϝσ ƙιɳσ ƚҽƙιɾιɳα ɱυɠαʂσ.
+Bυυʅιɾα Sҽʅιʂιɱσɾ, αʝʝα ƙɯαɠαʅα σƙυɱαɳყα.
+
+EႦιƚαႦσ Ⴆιɳσ Ⴆყσɠҽɾα ƙυ ƙιƚσɳԃҽ ƙყҽ Ⴆααʅι Ⴆαƚσɳԃα...
+
+Dԃαʅα αႦα Vσɾɾαɳʂ Ⴆααʅι Ⴆαƙσʅα ƙι ɯαɳσ...?
+```
+
+## Ancient Survey
+```
+----------------
+Data log found while surveying an old Magmosian facility, recovered from a destroyed HERMIT machine.
+Abnormally short, and much newer than the other logs, but the dialect is much more familiar than that of the other logs.
+----------------
+Tell sir Severon I gave the terminal some power. The log mentions Halavons, and we see Deogan machines.
+
+How old *is* this place...?
+```
+
+## Azzak kraek venkalé
+```
+----------------
+Audio log found while surveying an old Magmosian facility, recovered from an unknown, powerful-looking wreck.
+Uses very unusual language, and as such, the translation is rough.
+----------------
+Deogan machines are fascinating to fight in the long term. We will need to go over every battlefield with acid when the war is over.
+
+But before Brossk does that, I hope we get their [???] technology...
+The little things will run out of energy eventually, but not before they finish their repairs and go back to charging... have to fight everything twice.
+
+We never learned to make those.
+Lucky *b@stards.*
+```
+
+## [???] venkalé
+```
+----------------
+Audio log found while surveying an old Magmosian facility, recovered from a heavily damaged terminal.
+Uses very unusual language, and as such, the translation is rough.
+----------------
+It is all Deogans attacking.
+
+I won't pretend to be surprised. It could never be the Falorians; those self-righteous lizards would never set foot into this war willingly. They are more likely to attack the Deogans for their expansion than us.
+
+...Which would be good. Maybe finally put their arms to some use that isn't inventing cleaner glass for the thousandth time. If their f^cking *ancient* religion didn't command [???]ing, we would probably be exactly the same anyway.
+```
