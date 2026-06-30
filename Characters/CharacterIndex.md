@@ -29,6 +29,7 @@ Below is a ist of named characters that appear exclusively within the Magmos 2 c
 - [Thaddeus](Thaddeus.md)
 - [Vadersh](Vadersh.md)
 - [Vaill](Vail.md)
+- [Vakzajevent](Vakzajevent.md)
 - [Valkour](Valkour.md)
 - [Vattelen Vella](VattelenVella.md)
 - [Vaux Azzacci](VauxAzzacci.md)
