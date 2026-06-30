@@ -401,11 +401,10 @@ The composition of the ship is unknown- you will need to determine how to destro
 
 𝘛𝘢𝘬𝘦 𝘪𝘵 𝘥𝘰𝘸𝘯 𝙣𝙤𝙬, before Magmos becomes 𝘁𝘄𝗶𝗰𝗲 the hell it already is.
 ```
-(Boss: MDF-CL24 ISOPOD)   
+(Boss: MDF-CL24 ISOPOD?)
 
 ---   
 
-*(This mission was voided before the boss could be engaged. The boss, though sharing a profile picture with the later-introduced CERATO, was intended to be a member of the MDF War Council.)*
 ## Break Through the ASDF  
 *(Alternative name: Suicide Mission)*  
 Combat Zone: #sandstone-field  
@@ -432,4 +431,4 @@ They have sniper cannons searching for officers attempting to retrieve the wound
 It's suicide, but it's our only hope... and it's why we're sending you.
 Godspeed, Reapers and Archon Team.
 ```
-(Boss: ???)
+(Boss: This mission was voided before the boss could be engaged. The boss, though sharing a profile picture with the later-introduced CERATO, was intended to be a member of the MDF War Council.)
