@@ -3,10 +3,10 @@
 *"I 𝘬𝘯𝘰𝘸 this is what I want, but… my entire life, this was portrayed as something worth 𝘭𝘢𝘶𝘨𝘩𝘪𝘯𝘨 at. It was a joke to think about liking a human- an insult. And not a particularly lighthearted one."*
 - Villarian
 
-Villarian is a Magmosian Veldaron working within the MDF, currently in a relationship with Hornet.
+Villarian, or Velsarren, is a Magmosian Veldaron working within the MDF, currently in a relationship with Hornet.
 
 ### History
-History here.
+Villarian was very nearly an only child growing up, having only his sister Tarresha as a sibling. While Tarresha joined the Drelanxes, Villarian progressed along the standard path for Magmosian soldiers, though was eventually promoted to Infiltrator status alongside [Celian](Celian.md)
 
 ### Traits and Equipment
 Villarian is somewhat of a [tsundere](https://en.wikipedia.org/wiki/Tsundere), presenting himself as callous and aggressive. He is, however, still reasonable. Over time, he has grown a strong affection for Hornet (who is now his girlfriend), being deeply protective of her.
