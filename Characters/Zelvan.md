@@ -11,7 +11,7 @@ Assigned to defend the MDF Capital Prison, Zelvan was given a multitude of roles
 ### Traits and Equipment
 Zelvan was extremely hostile in his only on-screen appearance, confronting [Tarkan](Tarkan.md) about the Deogan time traveling incident.
 
-He was equipped with customized Magmosian augmentations that game his armor sharper features.
+He was equipped with customized Magmosian augmentations that gave his armor sharper features.
 
 ### Behind the Scenes
 Zelvan was unintentionally identified by multiple titles across his existence, leading to him being a very busy Magmosian.
