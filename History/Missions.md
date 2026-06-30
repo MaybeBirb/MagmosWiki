@@ -351,6 +351,26 @@ Destroying it would slow the Dominion Force, but capturing it intact would give 
 
 Secure the relays. Destroy them if you have to.
 ```
+(Boss: MDF-IN11 Relay Serpent)
+
+---
+
+# Investigate the Old Magmosian Base
+Combat Zone: #abandoned-facility
+Reward: 255,000 COAM
+Bonus Pay: N/A
+
+**Mission Objectives**
+- Retrieve data logs
+
+**Mission Briefing**
+```
+An MDF base has been discovered underground.
+
+The base looks to be a long-abandoned laboratory. We believe it may contain useful MDF data, despite its age, but drones can't get past the doors and we don't know if there are hostiles inside.
+
+Look into it, and stay alert.```React with <:PCA:1221086600021413928> to join
+```
 (Boss: ???)
 
 ---
